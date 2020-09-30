@@ -14,6 +14,9 @@ module.exports = {
       fontFamily: {
         'helvet': ['Helvetica', 'Arial', 'sans-serif'],
       },
+      screens: {
+        'portrait': {'raw': '(orientation: portrait)'},
+      },
 
     },
 
