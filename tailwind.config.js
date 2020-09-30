@@ -11,12 +11,15 @@ module.exports = {
       colors: {
         gold: '#C4B00F',
       },
-
+      fontFamily: {
+        'helvet': ['Helvetica', 'Arial', 'sans-serif'],
       },
 
+    },
+
+    variants: {},
+    plugins: [],
   },
-  variants: {},
-  plugins: [],
 };
 
 
